@@ -4,6 +4,25 @@ This project is an **Expense Management/Tracking System** consisting of a **Stre
 
 ---
 
+## Images
+
+<table>
+<tr>
+<td><img src="project_images/Streamlit_1.png" style="width:250%"></td>
+<td><img src="project_images/Streamlit_2.png" style="width:250%;"></td>
+</tr>
+<tr>
+<td><img src="project_images/Streamlit_3.png" style="width:250%;"></td>
+<td><img src="project_images/Streamlit_4.png" style="width:250%;"></td>
+</tr>
+<tr>
+<td><img src="project_images/Streamlit_5.png" style="width:250%;"></td>
+<td></td>
+</tr>
+</table>
+
+
+---
 
 ## Features
 
