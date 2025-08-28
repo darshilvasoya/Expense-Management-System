@@ -82,5 +82,5 @@ streamlit run frontend/app.py
 
 - Charts and tables are interactive and styled for readability.
 
-### License
-- This project is open-source and available under the MIT License.
+### Inquiry
+- workmail.darsh@gmail.com
