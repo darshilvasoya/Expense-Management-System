@@ -81,7 +81,7 @@ streamlit run frontend/app.py
 - Streamlit frontend communicates with FastAPI backend at http://localhost:8000 by default.
 
 - Charts and tables are interactive and styled for readability.
-
+  
 ### Inquiry
 - workmail.darsh@gmail.com
   
